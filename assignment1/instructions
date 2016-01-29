@@ -1,0 +1,30 @@
+CS-248 Web and Internet Programming
+Assignment Web 1: 50 Points
+
+Due: Monday February 1st before class in dropbox for Web 1 on Learn@UW-Stout. 
+
+Assignment: Create a new web page with xhtml 1.0 or higher. You will create a table to 
+represent your spring 2016 semester schedule. Verify xhtml requirements met through validation.
+ 
+	1)	Do not format this page, include only content. Use the code view in Dreamweaver and not
+		the Design feature. You need to write your own xhtml code without any styling. The 
+		Design view will automatically add styles. (5 points)
+	2)	Create a primary header (h1) with your name. (5 points)
+	3) 	Create a sub-header (h2) describing the table. (5 points)
+	4) 	Create a table with six columns and nine rows. Include the attribute border="border" in
+		the opening table tag. (<table border="border">) (20 points)
+		a) In the first row create table headers to display time and then days of the week. 
+		b) In the first column create table headers for the normal class times for Stout. See 
+			the example table below for the times to use in column 1.
+		c) Enter your schedule for the fall with the following minimum requirements.
+			i)	 The schedule must include at least four classes. (Add some of interest, if you
+				 have less than four.)
+			ii)	 At least one class or block of time must span over multiple rows. (If needed, 
+				 make up an example of study time or activity that will span over two hours)
+			iii) At least one class or block of time must span over multiple columns. Any class
+				 or activity that meets at the same time two or more days in a row must be in a
+				 single cell. If you do not have an activity that meets at the same time two or
+				 more days in a row, create one (ie. lunch, sleep if no 8 am class,…)
+	5)	Add notes of the classroom for your classes using an unordered list (5 points)
+	6)	Validate your file using Dreamweaver or at http://validator.w3.org/#validate-by-upload 
+		to confirm proper nesting of xhtml tags. (10 points)
