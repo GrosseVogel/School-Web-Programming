@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# checks if the assignment has already been created
+if [ -e "$1" ]
+then
+	# displays error message
+	echo "Problem $1 already exists"
+else
+	# creates problem
+	echo "Creating project $1"
+	echo "Copying files"
+	mkdir "$1"
+	cp -n "_template/blankTemplate.html" "$1/"
+	mv "$1/blankTemplate.html" "$1/$1.html"
+	echo "Project $1 created"
+fi
