@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* selector */
+h1 { color:#00FFCC;
+text-decoration:blink;
+text-align:center }
+
+/* contextual  */
+ol ol li {list-style-type: lower-alpha }
+
+/* classes */
+
+.office {background:#FFFF99 }
+
+/* id */
+
+#lunch { background:#FF0000 }

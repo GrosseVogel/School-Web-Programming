@@ -1,0 +1,22 @@
+@charset "uft-8";
+/* CSS Document */
+
+/* header */
+h1 { color: #0000ff; text-align:center; text-decoration:blink; }
+
+/* table */
+th { background-color:#FFFF99 }
+td { background-color:#FFFF99; text-align:center }
+
+/* classes */
+.cs248 { background-color:#00ffff }
+.itm383 { background-color:#0099ff }
+.itm391 { background-color:#ff9933 }
+.itm443 { background-color:#66ff33 }
+.ingmt475 { background-color:#cc66ff }
+
+/* id */
+#lunch { background-color:#993333 }
+
+/* list */
+li { list-style-type:square; }
