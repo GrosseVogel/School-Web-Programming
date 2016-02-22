@@ -1,0 +1,36 @@
+@charset "uft-8";
+/* CSS Document */
+
+/* header */
+h1 { color:#0000ff; text-align:center; }
+h2 { color:#ff0000; }
+
+/* table */
+td { vertical-align:top; text-align:left; }
+
+/* classes */
+.first { list-style-type:disc; }
+.second { list-style-type:square; }
+.third { list-style-type:circle; }
+.cs248 { background-color:#00ffff; }
+.itm383 { background-color:#0099ff; }
+.itm391 { background-color:#ff9933; }
+.itm443 { background-color:#66ff33; }
+.ingmt475 { background-color:#cc66ff; }
+.spanclass { font-weight:bold; font-style:italic; text-decoration:underline; }
+
+/* id */
+#music { color:#ff8000; font-family:monospace; }
+#hobby { color:#00ff00; font-family:times; }
+#web { color:#ff00ff; font-family:sans-serif; }
+#inside td { text-align:center }
+
+/* list */
+
+/* image */
+img { width:25%; height:auto; }
+
+/* links */
+a:hover { color:red; }
+
+div {display:table; table-layout:fixed; }
