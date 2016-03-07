@@ -1,0 +1,22 @@
+@charset "uft-8";
+/* CSS Document */
+
+/* header */
+body { background:#99ff8d; }
+h1 { color:#0000ff; text-align:center; }
+h2 { color:#ff0000; text-align:center; }
+
+/* table */
+td { white-space:nowrap; }
+table { margin-left:auto; margin-right:auto; }
+
+/* classes */
+.rAlign { text-align:right; }
+
+/* id */
+
+/* list */
+
+/* image */
+img { width:100px; height:auto; }
+
